@@ -7,9 +7,9 @@
 - Persistent storage (JSON file)
 
 ## Run Backend
-cd backend
-npm install
-npm start
+cd backend    
+npm install    
+npm start    
 
 ## Frontend
 Open index.html
